@@ -1,0 +1,6 @@
+{
+  "name": "DH PROXY",
+  "description": "Super proxy client with floating quick-connect widget, live timer, and per-app proxy tunneling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
